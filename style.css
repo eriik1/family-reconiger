@@ -1,0 +1,37 @@
+.heading {
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+    height: 30%;
+}
+
+.headingdiv {
+    float: none;
+    background-color: white;
+    padding: 5px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    color: black;
+}
+
+.resultperatag {
+    font-size: 20px;
+
+}
+
+.copyridefoter {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 2;
+    text-align: center;
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 120px;
+}
